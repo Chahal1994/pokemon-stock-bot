@@ -66,13 +66,18 @@ def is_target_product(name):
 
 def scan_page(page):
     print("Checking Pokémon Center Canada...")
-    print("Page title:", page.title())
-    print("Page URL:", page.url)
+
     try:
         page.goto(
             BASE_URL,
             wait_until="domcontentloaded",
             timeout=60000,
+        )
+
+        print("Page title:", page.title())
+        print("Page URL:", page.url)
+
+        page.wait_for_timeout(5000)
         )
 
         page.wait_for_timeout(5000)
