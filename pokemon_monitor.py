@@ -2,11 +2,9 @@ import requests
 import os
 from playwright.sync_api import sync_playwright
 
-BASE_URL = "https://www.pokemoncenter.com/en-ca/category/tcg-cards"
-
-TARGET_KEYWORDS = [
-    "elite trainer box",
-    "booster bundle",
+SEARCH_URLS = [
+    "https://www.pokemoncenter.com/en-ca/search/elite-trainer-box",
+    "https://www.pokemoncenter.com/en-ca/search/booster-bundle",
 ]
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -55,29 +53,21 @@ def page_is_blocked(page):
         return False
 
 
-def is_target_product(name):
-    name = name.lower()
-
-    return any(
-        keyword in name
-        for keyword in TARGET_KEYWORDS
-    )
-
-
-def scan_page(page):
-    print("Checking Pokémon Center Canada...")
+def scan_search(page, url):
+    print()
+    print("Checking:", url)
 
     try:
         page.goto(
-            BASE_URL,
+            url,
             wait_until="domcontentloaded",
             timeout=60000,
         )
 
+        page.wait_for_timeout(5000)
+
         print("Page title:", page.title())
         print("Page URL:", page.url)
-
-        page.wait_for_timeout(5000)
 
     except Exception as error:
         print("Page loading error:")
@@ -85,60 +75,14 @@ def scan_page(page):
         return None
 
     if page_is_blocked(page):
-        print()
-        print("⚠️ POKÉMON CENTER ACCESS DENIED")
-        print("The website's security system blocked the request.")
-        print()
+        print("⚠️ ACCESS DENIED")
         return "BLOCKED"
 
-    products = []
+    body_text = page.locator("body").inner_text()
 
-    links = page.locator("a[href*='/product/']")
-    count = links.count()
+    print("Page text length:", len(body_text))
 
-    print(f"Found {count} product links.")
-
-    for i in range(count):
-
-        try:
-            link = links.nth(i)
-
-            name = link.inner_text().strip()
-            href = link.get_attribute("href")
-
-            if not name or not href:
-                continue
-
-            if not is_target_product(name):
-                continue
-
-            if not href.startswith("http"):
-                href = "https://www.pokemoncenter.com" + href
-
-            try:
-                card = link.locator(
-                    "xpath=ancestor::*"
-                ).first
-
-                card_text = card.inner_text()
-
-            except Exception:
-                card_text = name
-
-            sold_out = "sold out" in card_text.lower()
-
-            products.append(
-                {
-                    "name": name,
-                    "url": href,
-                    "available": not sold_out,
-                }
-            )
-
-        except Exception:
-            continue
-
-    return products
+    return body_text
 
 
 def main():
@@ -149,7 +93,8 @@ def main():
     print(" ETBs + Booster Bundles")
     print(" GitHub Actions mode")
     print("==========================================")
-    print()
+
+    blocked = False
 
     with sync_playwright() as p:
 
@@ -162,51 +107,32 @@ def main():
             timezone_id="America/Toronto",
         )
 
-        result = scan_page(page)
+        for url in SEARCH_URLS:
 
-        if result == "BLOCKED":
+            result = scan_search(page, url)
 
-            send_telegram(
-                "⚠️ Pokémon Center Canada monitor\n\n"
-                "Access Denied / Error 15 detected.\n\n"
-                "The monitor stopped because "
-                "the website security system "
-                "blocked the request."
-            )
+            if result == "BLOCKED":
+                blocked = True
+                continue
 
-            browser.close()
-            return
+            if result is None:
+                continue
 
-        if result is None:
-
-            send_telegram(
-                "⚠️ Pokémon Center Canada monitor\n\n"
-                "The website could not be checked."
-            )
-
-            browser.close()
-            return
-
-        print()
-        print(
-            f"Found {len(result)} "
-            "ETB/Booster Bundle products."
-        )
-
-        for product in result:
-
-            status = (
-                "🟢 AVAILABLE"
-                if product["available"]
-                else "🔴 SOLD OUT"
-            )
-
-            print(
-                f"{status} - "
-                f"{product['name']}"
-            )
+            print()
+            print("Search page loaded successfully.")
+            print("First 1000 characters:")
+            print(result[:1000])
 
         browser.close()
+
+    if blocked:
+        send_telegram(
+            "⚠️ Pokémon Center Canada monitor\n\n"
+            "Access Denied / Error 15 detected.\n\n"
+            "The monitor stopped because "
+            "the website security system "
+            "blocked the request."
+        )
 
 
 if __name__ == "__main__":
