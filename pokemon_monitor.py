@@ -1,52 +1,39 @@
-import time
 import requests
-
 from playwright.sync_api import sync_playwright
 
-from config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
-
-
-# Pokémon Center Canada
 BASE_URL = "https://www.pokemoncenter.com/en-ca/category/tcg-cards"
 
-# Check every 10 minutes
-CHECK_INTERVAL = 600
-
-# Only monitor these product types
 TARGET_KEYWORDS = [
     "elite trainer box",
     "booster bundle",
 ]
 
+import os
+
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 def send_telegram(message):
-    """Send a Telegram message."""
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("Telegram credentials are missing.")
+        return
 
-    url = (
-        f"https://api.telegram.org/"
-        f"bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+
+    response = requests.post(
+        url,
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": message,
+            "disable_web_page_preview": False,
+        },
+        timeout=20,
     )
 
-    try:
-        response = requests.post(
-            url,
-            data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": message,
-                "disable_web_page_preview": False,
-            },
-            timeout=20,
-        )
-
-        response.raise_for_status()
-
-    except Exception as error:
-        print("Telegram error:", error)
+    response.raise_for_status()
 
 
 def page_is_blocked(page):
-    """Detect Pokémon Center security/access-denied pages."""
-
     try:
         title = page.title().lower()
         body = page.locator("body").inner_text().lower()
@@ -59,20 +46,16 @@ def page_is_blocked(page):
             "security service",
         ]
 
-        for word in blocked_words:
-
-            if word in title or word in body:
-                return True
+        return any(
+            word in title or word in body
+            for word in blocked_words
+        )
 
     except Exception:
-        pass
-
-    return False
+        return False
 
 
 def is_target_product(name):
-    """Check for ETBs and Booster Bundles."""
-
     name = name.lower()
 
     return any(
@@ -82,12 +65,9 @@ def is_target_product(name):
 
 
 def scan_page(page):
-    """Scan the catalog page."""
-
     print("Checking Pokémon Center Canada...")
 
     try:
-
         page.goto(
             BASE_URL,
             wait_until="domcontentloaded",
@@ -97,68 +77,42 @@ def scan_page(page):
         page.wait_for_timeout(5000)
 
     except Exception as error:
-
         print("Page loading error:")
         print(error)
-
         return None
 
-
-    # Check whether Pokémon Center blocked us
     if page_is_blocked(page):
-
         print()
         print("⚠️ POKÉMON CENTER ACCESS DENIED")
         print("The website's security system blocked the request.")
         print()
-
         return "BLOCKED"
-
 
     products = []
 
-    # Look for product links
-    links = page.locator(
-        "a[href*='/product/']"
-    )
-
+    links = page.locator("a[href*='/product/']")
     count = links.count()
 
-    print(
-        f"Found {count} product links."
-    )
-
+    print(f"Found {count} product links.")
 
     for i in range(count):
 
         try:
-
             link = links.nth(i)
 
             name = link.inner_text().strip()
-
             href = link.get_attribute("href")
-
 
             if not name or not href:
                 continue
 
-
             if not is_target_product(name):
                 continue
 
-
             if not href.startswith("http"):
+                href = "https://www.pokemoncenter.com" + href
 
-                href = (
-                    "https://www.pokemoncenter.com"
-                    + href
-                )
-
-
-            # Get surrounding text
             try:
-
                 card = link.locator(
                     "xpath=ancestor::*"
                 ).first
@@ -166,15 +120,9 @@ def scan_page(page):
                 card_text = card.inner_text()
 
             except Exception:
-
                 card_text = name
 
-
-            sold_out = (
-                "sold out"
-                in card_text.lower()
-            )
-
+            sold_out = "sold out" in card_text.lower()
 
             products.append(
                 {
@@ -184,10 +132,8 @@ def scan_page(page):
                 }
             )
 
-
         except Exception:
             continue
-
 
     return products
 
@@ -198,13 +144,9 @@ def main():
     print("==========================================")
     print(" Pokémon Center Canada Stock Monitor")
     print(" ETBs + Booster Bundles")
-    print(" Safe monitoring mode")
+    print(" GitHub Actions mode")
     print("==========================================")
     print()
-
-    previous_state = {}
-
-    blocked_alert_sent = False
 
     with sync_playwright() as p:
 
@@ -217,105 +159,51 @@ def main():
             timezone_id="America/Toronto",
         )
 
+        result = scan_page(page)
 
-        while True:
+        if result == "BLOCKED":
 
-            result = scan_page(page)
+            send_telegram(
+                "⚠️ Pokémon Center Canada monitor\n\n"
+                "Access Denied / Error 15 detected.\n\n"
+                "The monitor stopped because "
+                "the website security system "
+                "blocked the request."
+            )
 
+            browser.close()
+            return
 
-            # Website blocked us
-            if result == "BLOCKED":
+        if result is None:
 
-                if not blocked_alert_sent:
+            send_telegram(
+                "⚠️ Pokémon Center Canada monitor\n\n"
+                "The website could not be checked."
+            )
 
-                    send_telegram(
-                        "⚠️ Pokémon Center Canada monitor\n\n"
-                        "Access Denied / Error 15 detected.\n\n"
-                        "The monitor has stopped checking "
-                        "to avoid repeatedly triggering "
-                        "the site's security system."
-                    )
+            browser.close()
+            return
 
-                    blocked_alert_sent = True
+        print()
+        print(
+            f"Found {len(result)} "
+            "ETB/Booster Bundle products."
+        )
 
+        for product in result:
 
-                print()
-                print(
-                    "Monitoring paused because "
-                    "Pokémon Center blocked the request."
-                )
+            status = (
+                "🟢 AVAILABLE"
+                if product["available"]
+                else "🔴 SOLD OUT"
+            )
 
-                print()
-                print(
-                    "Close this program with Ctrl+C."
-                )
-
-                break
-
-
-            # Normal successful page
-            if result is not None:
-
-                blocked_alert_sent = False
-
-                current_state = {}
-
-                for product in result:
-
-                    url = product["url"]
-
-                    available = product["available"]
-
-                    current_state[url] = available
-
-                    old_state = previous_state.get(
-                        url
-                    )
-
-
-                    # Product changed from SOLD OUT
-                    # to available
-                    if (
-                        old_state is False
-                        and available is True
-                    ):
-
-                        message = (
-                            "🚨 POKÉMON CENTER CANADA 🚨\n\n"
-                            "🟢 RESTOCK DETECTED!\n\n"
-                            f"📦 {product['name']}\n\n"
-                            f"🔗 {product['url']}"
-                        )
-
-                        print()
-                        print(message)
-                        print()
-
-                        send_telegram(
-                            message
-                        )
-
-
-                previous_state = current_state
-
-                print(
-                    f"Monitoring "
-                    f"{len(current_state)} "
-                    f"ETB/Booster Bundle products."
-                )
-
-
-            print()
             print(
-                f"Next check in "
-                f"{CHECK_INTERVAL // 60} minutes..."
+                f"{status} - "
+                f"{product['name']}"
             )
 
-            print()
-
-            time.sleep(
-                CHECK_INTERVAL
-            )
+        browser.close()
 
 
 if __name__ == "__main__":
