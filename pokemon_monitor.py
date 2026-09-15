@@ -1,4 +1,5 @@
 import requests
+import os
 from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.pokemoncenter.com/en-ca/category/tcg-cards"
@@ -8,10 +9,9 @@ TARGET_KEYWORDS = [
     "booster bundle",
 ]
 
-import os
-
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
+
 
 def send_telegram(message):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
