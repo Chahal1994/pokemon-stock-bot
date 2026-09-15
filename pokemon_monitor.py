@@ -1,9 +1,6 @@
 import requests
 
-URLS = [
-    "https://www.pokemoncenter.com/en-ca/search/elite-trainer-box",
-    "https://www.pokemoncenter.com/en-ca/search/booster-bundle",
-]
+URL = "https://www.google.com/search?q=site%3Apokemoncenter.com%2Fen-ca+%22Elite+Trainer+Box%22+Pok%C3%A9mon+Center"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
@@ -13,40 +10,21 @@ HEADERS = {
 def main():
 
     print("==========================================")
-    print(" Pokémon Center Canada HTTP Test")
-    print(" ETBs + Booster Bundles")
+    print(" Pokémon Center Canada Search Test")
     print("==========================================")
     print()
 
-    for url in URLS:
+    response = requests.get(
+        URL,
+        headers=HEADERS,
+        timeout=30,
+    )
 
-        print("Checking:")
-        print(url)
-        print()
-
-        try:
-
-            response = requests.get(
-                url,
-                headers=HEADERS,
-                timeout=30,
-            )
-
-            print("HTTP status:", response.status_code)
-            print("Final URL:", response.url)
-            print("Response length:", len(response.text))
-            print()
-
-            print("First 3000 characters:")
-            print(response.text[:3000])
-            print()
-            print("------------------------------------------")
-            print()
-
-        except Exception as error:
-
-            print("ERROR:")
-            print(error)
+    print("HTTP status:", response.status_code)
+    print("Response length:", len(response.text))
+    print()
+    print("First 5000 characters:")
+    print(response.text[:5000])
 
 
 if __name__ == "__main__":
