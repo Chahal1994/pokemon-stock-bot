@@ -66,7 +66,8 @@ def is_target_product(name):
 
 def scan_page(page):
     print("Checking Pokémon Center Canada...")
-
+    print("Page title:", page.title())
+    print("Page URL:", page.url)
     try:
         page.goto(
             BASE_URL,
