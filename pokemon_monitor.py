@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 
 URL = "https://www.google.com/search?q=site%3Apokemoncenter.com%2Fen-ca+%22Elite+Trainer+Box%22+Pok%C3%A9mon+Center"
 
@@ -9,11 +10,6 @@ HEADERS = {
 
 def main():
 
-    print("==========================================")
-    print(" Pokémon Center Canada Search Test")
-    print("==========================================")
-    print()
-
     response = requests.get(
         URL,
         headers=HEADERS,
@@ -21,10 +17,30 @@ def main():
     )
 
     print("HTTP status:", response.status_code)
-    print("Response length:", len(response.text))
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
     print()
-    print("First 5000 characters:")
-    print(response.text[:5000])
+    print("Google results:")
+    print("------------------------------------------")
+
+    found = 0
+
+    for link in soup.select("a"):
+
+        href = link.get("href", "")
+        text = link.get_text(" ", strip=True)
+
+        if "pokemoncenter.com" in href:
+
+            print()
+            print("TITLE:", text[:300])
+            print("URL:", href[:500])
+
+            found += 1
+
+    print()
+    print("Pokémon Center links found:", found)
 
 
 if __name__ == "__main__":
