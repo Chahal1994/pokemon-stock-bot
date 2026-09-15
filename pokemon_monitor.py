@@ -2,7 +2,7 @@ import os
 import requests
 from playwright.sync_api import sync_playwright
 
-WALMART_URL = "https://www.walmart.ca/en/browse/toys/trading-cards/pokemon-cards/10011_31745_6000204969672"
+POKEMON_URL = "https://www.pokemoncenter.com/en-ca/category/tcg-cards?page=1"
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
@@ -31,27 +31,26 @@ def send_telegram(message):
 def main():
 
     print("==========================================")
-    print(" Walmart Canada Pokémon Monitor")
+    print(" Pokémon Center Canada Monitor")
     print(" ETBs + Booster Bundles")
     print("==========================================")
     print()
 
     with sync_playwright() as p:
 
-        browser = p.chromium.launch(
-            headless=True
-        )
+        browser = p.chromium.launch(headless=True)
 
         page = browser.new_page(
             locale="en-CA",
             timezone_id="America/Toronto",
         )
 
-        print("Checking Walmart Canada...")
+        print("Checking Pokémon Center Canada...")
 
         try:
+
             page.goto(
-                WALMART_URL,
+                POKEMON_URL,
                 wait_until="domcontentloaded",
                 timeout=60000,
             )
@@ -65,8 +64,8 @@ def main():
 
             print("Page text length:", len(body))
             print()
-            print("First 3000 characters:")
-            print(body[:3000])
+            print("First 5000 characters:")
+            print(body[:5000])
 
         except Exception as error:
 
@@ -74,8 +73,8 @@ def main():
             print(error)
 
             send_telegram(
-                "⚠️ Walmart Canada monitor\n\n"
-                "The Walmart page could not be checked."
+                "⚠️ Pokémon Center Canada monitor\n\n"
+                "The Pokémon Center page could not be checked."
             )
 
             browser.close()
