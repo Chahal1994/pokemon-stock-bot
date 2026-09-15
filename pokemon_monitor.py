@@ -78,9 +78,6 @@ def scan_page(page):
         print("Page URL:", page.url)
 
         page.wait_for_timeout(5000)
-        )
-
-        page.wait_for_timeout(5000)
 
     except Exception as error:
         print("Page loading error:")
