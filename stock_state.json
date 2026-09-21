@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$209.95 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Manta Trading|https://mantatrading.com/products/30th-celebration-elite-trainer-box-etb?ref=celadon": {
     "status": "Out of Stock",
     "price": "$149.99 CAD",
@@ -887,13 +894,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Video Games Plus",
     "url": "https://videogamesplus.ca/products/tcg-pokemon-30th-celebration-elite-trainer-box-pre-order?bg_ref=J3bjb4BGL5"
-  },
-  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$189.95 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
