@@ -839,19 +839,19 @@
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/pitch-black-elite-trainer-box?ref=celadon"
   },
-  "Pitch Black Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$89.95 CAD",
-    "product": "Pitch Black Elite Trainer Box",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon"
-  },
   "Pitch Black Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order?ref=celadon": {
     "status": "Out of Stock",
     "price": "$89.95 CAD",
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order?ref=celadon"
+  },
+  "Pitch Black Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$99.95 CAD",
+    "product": "Pitch Black Elite Trainer Box",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon"
   },
   "Pitch Black Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-pitch-black-elite-trainer-box-pre-order-july-17?ref=celadon": {
     "status": "Unknown",
