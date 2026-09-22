@@ -447,13 +447,6 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon": {
-    "status": "In Stock",
-    "price": "$49.95 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
@@ -502,6 +495,13 @@
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/chaos-rising-booster-bundle?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$49.95 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6Z5CLX0MKJ39": {
     "status": "Out of Stock",
@@ -965,13 +965,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
   },
-  "30th Celebration Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon": {
-    "status": "In Stock",
-    "price": "$135.00 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon"
-  },
   "30th Celebration Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-booster-bundle-pre-order-oct-2?ref=celadon": {
     "status": "In Stock",
     "price": "$139.99 CAD",
@@ -1013,6 +1006,13 @@
     "product": "30th Celebration Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-30th-celebration-booster-bundle-pre-order?ref=celadon"
+  },
+  "30th Celebration Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon": {
+    "status": "Out of Stock",
+    "price": "$135.00 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon"
   },
   "30th Celebration Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-30th-celebration-booster-bundle-release-late-november-2026-wave-3?ref=celadon": {
     "status": "Out of Stock",
