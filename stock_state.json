@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-30th-celebration-elite-trainer-box-sept-16-pre-order?aff=celadon": {
+    "status": "In Stock",
+    "price": "$279.99 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-30th-celebration-elite-trainer-box-sept-16-pre-order?aff=celadon"
+  },
   "30th Celebration Elite Trainer Box|Manta Trading|https://mantatrading.com/products/30th-celebration-elite-trainer-box-etb?ref=celadon": {
     "status": "Out of Stock",
     "price": "$149.99 CAD",
@@ -923,13 +930,6 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon"
   },
-  "30th Celebration Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-30th-celebration-elite-trainer-box-sept-16-pre-order?aff=celadon": {
-    "status": "Out of Stock",
-    "price": "$279.99 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-30th-celebration-elite-trainer-box-sept-16-pre-order?aff=celadon"
-  },
   "30th Celebration Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-tcg-30th-anniversary-celebrations-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
     "price": "$399.95 CAD",
@@ -965,6 +965,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
   },
+  "30th Celebration Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon": {
+    "status": "In Stock",
+    "price": "$135.00 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon"
+  },
   "30th Celebration Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-booster-bundle-pre-order-oct-2?ref=celadon": {
     "status": "In Stock",
     "price": "$139.99 CAD",
@@ -999,13 +1006,6 @@
     "product": "30th Celebration Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-30th-celebration-booster-bundle-pre-order?ref=celadon"
-  },
-  "30th Celebration Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon": {
-    "status": "Out of Stock",
-    "price": "$125.00 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon"
   },
   "30th Celebration Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-30th-celebration-booster-bundle-release-late-november-2026-wave-3?ref=celadon": {
     "status": "Out of Stock",
