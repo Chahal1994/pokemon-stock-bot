@@ -223,13 +223,6 @@
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/products/perfect-order-elite-trainer-box-etb?ref=celadon"
   },
-  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
-    "status": "In Stock",
-    "price": "$99.95 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
-  },
   "Perfect Order Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon": {
     "status": "In Stock",
     "price": "$105.00 CAD",
@@ -264,6 +257,13 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/perfect-order-elite-trainer-box?ref=celadon"
+  },
+  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$99.95 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
   },
   "Perfect Order Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-elite-trainer-box-limit-1-per-person-copy?ref=celadon": {
     "status": "Out of Stock",
