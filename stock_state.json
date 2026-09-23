@@ -314,13 +314,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10372-109/pokemon-tcg-mega-evolution-perfect-order-pokemon-center-elite-trainer-box/celadon"
   },
-  "Ascended Heroes Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$119.95 CAD",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon"
-  },
   "Ascended Heroes Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-mega-evolution-ascended-heroes-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
@@ -355,6 +348,13 @@
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-booster-bundle?aff=celadon"
+  },
+  "Ascended Heroes Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$119.95 CAD",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon"
   },
   "Ascended Heroes Booster Bundle|Card Board Gaming|https://www.cardboardgaming.ca/collections/sealed/products/ascended-heroes-bundle?ref=celadon": {
     "status": "Out of Stock",
