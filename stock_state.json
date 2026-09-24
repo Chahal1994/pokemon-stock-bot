@@ -316,7 +316,7 @@
   },
   "Ascended Heroes Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon": {
     "status": "In Stock",
-    "price": "$119.95 CAD",
+    "price": "$99.95 CAD",
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon"
@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$219.95 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Manta Trading|https://mantatrading.com/products/30th-celebration-elite-trainer-box-etb?ref=celadon": {
     "status": "Out of Stock",
     "price": "$149.99 CAD",
@@ -894,13 +901,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon"
-  },
-  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$209.95 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
