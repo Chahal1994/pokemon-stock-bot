@@ -447,19 +447,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-booster-bundle?aff=celadon": {
     "status": "In Stock",
