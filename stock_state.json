@@ -461,13 +461,6 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-booster-bundle?aff=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
@@ -502,6 +495,13 @@
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6Z5CLX0MKJ39": {
     "status": "Out of Stock",
