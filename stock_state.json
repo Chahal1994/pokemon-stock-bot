@@ -720,13 +720,6 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-booster-bundle?ref=celadon"
   },
-  "Pitch Black Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon": {
-    "status": "In Stock",
-    "price": "$54.95 CAD",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon"
-  },
   "Pitch Black Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/mega-evolution-pitch-black-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
@@ -754,6 +747,13 @@
     "product": "Pitch Black Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon"
+  },
+  "Pitch Black Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon": {
+    "status": "Out of Stock",
+    "price": "$54.95 CAD",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon"
   },
   "Pitch Black Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10422-109/celadon": {
     "status": "Unknown",
