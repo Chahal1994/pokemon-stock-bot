@@ -594,13 +594,6 @@
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-elite-trainer-box?ref=celadon"
   },
-  "Chaos Rising Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-elite-trainer?aff=celadon": {
-    "status": "In Stock",
-    "price": "$115.00 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-me04-chaos-rising-elite-trainer?aff=celadon"
-  },
   "Chaos Rising Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
@@ -621,6 +614,13 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/chaos-rising-elite-trainer-box?ref=celadon"
+  },
+  "Chaos Rising Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-elite-trainer?aff=celadon": {
+    "status": "Out of Stock",
+    "price": "$115.00 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-me04-chaos-rising-elite-trainer?aff=celadon"
   },
   "Chaos Rising Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/pokemon-chaos-rising-elite-trainer-box-sealed-case-10-etbs?ref=celadon": {
     "status": "Out of Stock",
