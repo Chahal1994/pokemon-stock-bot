@@ -447,19 +447,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon": {
     "status": "In Stock",
@@ -798,7 +798,7 @@
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A"
   },
   "Pitch Black Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon": {
-    "status": "In Stock",
+    "status": "Out of Stock",
     "price": "$99.95 CAD",
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Banana Games",
