@@ -699,13 +699,6 @@
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/collections/english-box/products/pokemon-pitch-black-booster-bundle?ref=celadon"
   },
-  "Pitch Black Booster Bundle|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon": {
-    "status": "In Stock",
-    "price": "$49.95 CAD",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon"
-  },
   "Pitch Black Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0XGIAP6US5AO": {
     "status": "In Stock",
     "price": "$49.98 CAD",
@@ -747,6 +740,13 @@
     "product": "Pitch Black Booster Bundle",
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-me05-pitch-black-booster-bundle?ref=celadon"
+  },
+  "Pitch Black Booster Bundle|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$49.95 CAD",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon"
   },
   "Pitch Black Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon": {
     "status": "Out of Stock",
