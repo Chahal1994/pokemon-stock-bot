@@ -237,19 +237,19 @@
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/products/pre-order-pokemon-me03-perfect-order-elite-trainer?ref=celadon"
   },
-  "Perfect Order Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-perfect-order-elite-trainer-box-pre-order-march-27th-2026?ref=celadon": {
-    "status": "In Stock",
-    "price": "$119.95 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/pokemon-mega-evolution-perfect-order-elite-trainer-box-pre-order-march-27th-2026?ref=celadon"
-  },
   "Perfect Order Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-perfect-order-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/mega-evolution-perfect-order-elite-trainer-box?ref=celadon"
+  },
+  "Perfect Order Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-perfect-order-elite-trainer-box-pre-order-march-27th-2026?ref=celadon": {
+    "status": "In Stock",
+    "price": "$127.95 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/pokemon-mega-evolution-perfect-order-elite-trainer-box-pre-order-march-27th-2026?ref=celadon"
   },
   "Perfect Order Elite Trainer Box|Card Board Gaming|https://www.cardboardgaming.ca/products/perfect-order-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
