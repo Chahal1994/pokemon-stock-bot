@@ -111,13 +111,6 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-perfect-order-booster-bundle?ref=celadon"
   },
-  "Perfect Order Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6LAA72BDBO4P": {
-    "status": "In Stock",
-    "price": "$49.92 CAD",
-    "product": "Perfect Order Booster Bundle",
-    "retailer": "Walmart",
-    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6LAA72BDBO4P"
-  },
   "Perfect Order Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-perfect-order-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$49.99 CAD",
@@ -181,6 +174,13 @@
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/products/pre-order-pokemon-me03-perfect-order-booster-bundle?ref=celadon"
   },
+  "Perfect Order Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6LAA72BDBO4P": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Perfect Order Booster Bundle",
+    "retailer": "Walmart",
+    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6LAA72BDBO4P"
+  },
   "Perfect Order Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10377-109/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-6-packs/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -208,13 +208,6 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/pokemon-me03-perfect-order-elite-trainer-box?ref=celadon"
-  },
-  "Perfect Order Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK": {
-    "status": "In Stock",
-    "price": "$94.98 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Walmart",
-    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK"
   },
   "Perfect Order Elite Trainer Box|Manta Trading|https://mantatrading.com/products/perfect-order-elite-trainer-box-etb?ref=celadon": {
     "status": "In Stock",
@@ -278,6 +271,13 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon"
+  },
+  "Perfect Order Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Walmart",
+    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK"
   },
   "Perfect Order Elite Trainer Box|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/962109/celadon": {
     "status": "Unknown",
@@ -384,19 +384,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-ascended-heroes-booster-bundle-april-24-2026-limit-2-per-person?ref=celadon"
   },
-  "Ascended Heroes Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F585F9W89C55G": {
-    "status": "Out of Stock",
-    "price": "$1,624.50 CAD",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "Walmart",
-    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F585F9W89C55G"
-  },
   "Ascended Heroes Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F28XPG71ZUHAO": {
     "status": "Out of Stock",
     "price": "TBA",
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F28XPG71ZUHAO"
+  },
+  "Ascended Heroes Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F585F9W89C55G": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "Walmart",
+    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F585F9W89C55G"
   },
   "Ascended Heroes Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10311-114/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-packs/celadon": {
     "status": "Unknown",
@@ -790,13 +790,6 @@
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/collections/pokemon-tcg/products/pokemon-pitch-black-elite-trainer-box?ref=celadon"
   },
-  "Pitch Black Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A": {
-    "status": "In Stock",
-    "price": "$94.98 CAD",
-    "product": "Pitch Black Elite Trainer Box",
-    "retailer": "Walmart",
-    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A"
-  },
   "Pitch Black Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-pitch-black-elite-trainer-box-limit-1-per-person-pre-order-ships-july-17-2026?ref=celadon": {
     "status": "In Stock",
     "price": "$99.99 CAD",
@@ -852,6 +845,13 @@
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon"
+  },
+  "Pitch Black Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Pitch Black Elite Trainer Box",
+    "retailer": "Walmart",
+    "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A"
   },
   "Pitch Black Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-pitch-black-elite-trainer-box-pre-order-july-17?ref=celadon": {
     "status": "Unknown",
