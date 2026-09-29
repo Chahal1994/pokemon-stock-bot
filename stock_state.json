@@ -314,13 +314,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10372-109/pokemon-tcg-mega-evolution-perfect-order-pokemon-center-elite-trainer-box/celadon"
   },
-  "Ascended Heroes Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$99.95 CAD",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon"
-  },
   "Ascended Heroes Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-mega-evolution-ascended-heroes-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
@@ -355,6 +348,13 @@
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-booster-bundle?aff=celadon"
+  },
+  "Ascended Heroes Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$119.95 CAD",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-booster-bundle?ref=celadon"
   },
   "Ascended Heroes Booster Bundle|Card Board Gaming|https://www.cardboardgaming.ca/collections/sealed/products/ascended-heroes-bundle?ref=celadon": {
     "status": "Out of Stock",
@@ -545,13 +545,6 @@
     "retailer": "Amazon",
     "url": "https://www.amazon.ca/gp/product/B0GR6Q72ND/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
-  "Chaos Rising Elite Trainer Box|Banana Games|https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon": {
-    "status": "In Stock",
-    "price": "$84.95 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon"
-  },
   "Chaos Rising Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F5XT2AUH59V49": {
     "status": "In Stock",
     "price": "$94.98 CAD",
@@ -607,6 +600,13 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Zephyr Epic",
     "url": "https://zephyrepic.com/product/pokemon-mega-evolution-chaos-rising-elite-trainer-box-pre-order-raffle/?ref=celadon"
+  },
+  "Chaos Rising Elite Trainer Box|Banana Games|https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$84.95 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
