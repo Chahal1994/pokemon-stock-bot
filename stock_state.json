@@ -426,13 +426,6 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-sealed-case-25-bundles-1?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$44.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Poke Jeux",
-    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-chaos-rising-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$46.99 CAD",
@@ -495,6 +488,13 @@
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/chaos-rising-booster-bundle?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$44.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Poke Jeux",
+    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon": {
     "status": "Out of Stock",
