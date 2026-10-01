@@ -552,13 +552,6 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F5XT2AUH59V49"
   },
-  "Chaos Rising Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-chaos-rising-elite-trainer-box?ref=celadon": {
-    "status": "In Stock",
-    "price": "$99.99 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Yume Cards",
-    "url": "https://www.yumecards.ca/products/pokemon-chaos-rising-elite-trainer-box?ref=celadon"
-  },
   "Chaos Rising Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon": {
     "status": "In Stock",
     "price": "$105.99 CAD",
@@ -572,6 +565,13 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Deck Out Gaming",
     "url": "https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-elite-trainer-box-limit-1-per-person?ref=celadon"
+  },
+  "Chaos Rising Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-chaos-rising-elite-trainer-box?ref=celadon": {
+    "status": "In Stock",
+    "price": "$109.99 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Yume Cards",
+    "url": "https://www.yumecards.ca/products/pokemon-chaos-rising-elite-trainer-box?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
