@@ -13,6 +13,13 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-ascended-heroes-elite-trainer-box?ref=celadon"
   },
+  "Ascended Heroes Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-elite-trainer-box?aff=celadon": {
+    "status": "In Stock",
+    "price": "$250.00 CAD",
+    "product": "Ascended Heroes Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-elite-trainer-box?aff=celadon"
+  },
   "Ascended Heroes Elite Trainer Box|Card Board Gaming|https://www.cardboardgaming.ca/collections/sealed/products/ascended-heroes-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
     "price": "$170.00 CAD",
@@ -26,13 +33,6 @@
     "product": "Ascended Heroes Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-ascended-heroes-elite-trainer-box-february-20-2026-limit-1-per-person-2?ref=celadon"
-  },
-  "Ascended Heroes Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-elite-trainer-box?aff=celadon": {
-    "status": "Out of Stock",
-    "price": "$250.00 CAD",
-    "product": "Ascended Heroes Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-me2-5-ascended-heroes-elite-trainer-box?aff=celadon"
   },
   "Ascended Heroes Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/pokemon-mega-evolution-ascended-heroes-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$172.56 CAD",
+    "price": "$173.23 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -874,13 +874,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
-  "30th Celebration Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon": {
-    "status": "In Stock",
-    "price": "$219.99 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon"
-  },
   "30th Celebration Elite Trainer Box|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$229.99 CAD",
@@ -915,6 +908,13 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
+  },
+  "30th Celebration Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$219.99 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon": {
     "status": "Out of Stock",
