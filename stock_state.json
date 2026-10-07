@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$176.12 CAD",
+    "price": "$175.62 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -440,19 +440,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon": {
+    "status": "In Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-booster-bundle?aff=celadon": {
     "status": "In Stock",
@@ -1063,19 +1063,19 @@
     "retailer": "Amazon",
     "url": "https://amzn.to/4v8CMJy"
   },
-  "Delta Reign Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon": {
-    "status": "In Stock",
-    "price": "$79.99 CAD",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon"
-  },
   "Delta Reign Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon": {
-    "status": "Out of Stock",
+    "status": "In Stock",
     "price": "$64.99 CAD",
     "product": "Delta Reign Booster Bundle",
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon"
+  },
+  "Delta Reign Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon": {
+    "status": "Out of Stock",
+    "price": "$79.99 CAD",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon"
   },
   "Delta Reign Booster Bundle|Pokémon Center| https://www.pokemoncenter.com/en-ca/product/10-10439-109/celadon": {
     "status": "Unknown",
