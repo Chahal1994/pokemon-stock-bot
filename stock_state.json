@@ -29,7 +29,7 @@
   },
   "Ascended Heroes Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-elite-trainer-box-pre-order?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$219.95 CAD",
+    "price": "$199.95 CAD",
     "product": "Ascended Heroes Elite Trainer Box",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-mega-evolutions-ascended-heroes-elite-trainer-box-pre-order?ref=celadon"
@@ -216,6 +216,13 @@
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/products/perfect-order-elite-trainer-box-etb?ref=celadon"
   },
+  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
+    "status": "In Stock",
+    "price": "$99.95 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
+  },
   "Perfect Order Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$99.99 CAD",
@@ -257,13 +264,6 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/perfect-order-elite-trainer-box?ref=celadon"
-  },
-  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$99.95 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
   },
   "Perfect Order Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-elite-trainer-box-limit-1-per-person-copy?ref=celadon": {
     "status": "Out of Stock",
@@ -552,6 +552,13 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F5XT2AUH59V49"
   },
+  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$99.95 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
+  },
   "Chaos Rising Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon": {
     "status": "In Stock",
     "price": "$105.99 CAD",
@@ -607,13 +614,6 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/chaos-rising-elite-trainer-box?ref=celadon"
-  },
-  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$99.95 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Banana Games|https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
@@ -713,16 +713,9 @@
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon"
   },
-  "Pitch Black Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-pitch-black-booster-bundle-limit-2-per-person-pre-order-ships-july-17-2026?ref=celadon": {
-    "status": "In Stock",
-    "price": "$54.99 CAD",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me5-pitch-black-booster-bundle-limit-2-per-person-pre-order-ships-july-17-2026?ref=celadon"
-  },
   "Pitch Black Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-booster-bundle?ref=celadon": {
     "status": "In Stock",
-    "price": "$58.95 CAD",
+    "price": "$59.95 CAD",
     "product": "Pitch Black Booster Bundle",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-booster-bundle?ref=celadon"
@@ -754,6 +747,13 @@
     "product": "Pitch Black Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon"
+  },
+  "Pitch Black Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-pitch-black-booster-bundle-limit-2-per-person-pre-order-ships-july-17-2026?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$54.99 CAD",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me5-pitch-black-booster-bundle-limit-2-per-person-pre-order-ships-july-17-2026?ref=celadon"
   },
   "Pitch Black Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10422-109/celadon": {
     "status": "Unknown",
@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon": {
+    "status": "In Stock",
+    "price": "$219.99 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$229.99 CAD",
@@ -922,13 +929,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon"
-  },
-  "30th Celebration Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$219.99 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon": {
     "status": "Out of Stock",
@@ -1127,7 +1127,7 @@
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
   "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
-    "status": "In Stock",
+    "status": "Out of Stock",
     "price": "$139.99 CAD",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Just-a-Hobby",
