@@ -1070,6 +1070,13 @@
     "retailer": "Amazon",
     "url": "https://amzn.to/4v8CMJy"
   },
+  "Delta Reign Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon": {
+    "status": "In Stock",
+    "price": "$64.99 CAD",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon"
+  },
   "Delta Reign Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$69.99 CAD",
@@ -1084,15 +1091,8 @@
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon"
   },
-  "Delta Reign Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$64.99 CAD",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon"
-  },
   "Delta Reign Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon": {
-    "status": "Out of Stock",
+    "status": "In Stock",
     "price": "$1,499.99 CAD",
     "product": "Delta Reign Booster Bundle",
     "retailer": "Cardboard Hero",
@@ -1147,19 +1147,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
+  "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
+    "status": "In Stock",
+    "price": "$139.99 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon"
+  },
   "Delta Reign Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$149.99 CAD",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-elite-trainer-box?ref=celadon"
-  },
-  "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$139.99 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon"
   },
   "Delta Reign Elite Trainer Box|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon": {
     "status": "Out of Stock",
@@ -1181,6 +1181,13 @@
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Amazon",
     "url": "https://link.amazon/B0fFUkQE2"
+  },
+  "Delta Reign Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/products/delta-reign-elite-trainer-box-case?ref=celadon": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/products/delta-reign-elite-trainer-box-case?ref=celadon"
   },
   "Delta Reign Pokémon Center Elite Trainer Box|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10438-112/celadon": {
     "status": "Unknown",
