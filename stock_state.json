@@ -426,6 +426,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-sealed-case-25-bundles-1?ref=celadon"
   },
+  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$44.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Poke Jeux",
+    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
+  },
   "Chaos Rising Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-chaos-rising-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$49.99 CAD",
@@ -488,13 +495,6 @@
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/chaos-rising-booster-bundle?ref=celadon"
-  },
-  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$44.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Poke Jeux",
-    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon": {
     "status": "Out of Stock",
@@ -769,19 +769,19 @@
     "retailer": "Amazon",
     "url": "https://www.amazon.ca/gp/product/B0GYTRYV7P/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1"
   },
-  "Pitch Black Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-pitch-black-booster-bundle-pre-order-july-17?ref=celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-pitch-black-booster-bundle-pre-order-july-17?ref=celadon"
-  },
   "Pitch Black Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle-july-31st-wave-2?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Pitch Black Booster Bundle",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle-july-31st-wave-2?ref=celadon"
+  },
+  "Pitch Black Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-pitch-black-booster-bundle-pre-order-july-17?ref=celadon": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-pitch-black-booster-bundle-pre-order-july-17?ref=celadon"
   },
   "Pitch Black Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/collections/pokemon-tcg/products/pokemon-pitch-black-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
@@ -1126,19 +1126,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-3?ref=celadon"
   },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon"
-  },
   "Delta Reign Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Delta Reign Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order?ref=celadon"
+  },
+  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon"
   },
   "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon": {
     "status": "Unknown",
