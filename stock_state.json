@@ -328,13 +328,6 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-ascended-heroes-booster-bundle-pre-order-wave-1-april-24?ref=celadon"
   },
-  "Ascended Heroes Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-booster-bundle-limit-2-per-person?ref=celadon": {
-    "status": "In Stock",
-    "price": "$139.99 CAD",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-booster-bundle-limit-2-per-person?ref=celadon"
-  },
   "Ascended Heroes Booster Bundle|Zephyr Epic|https://zephyrepic.com/product/pokemon-mega-evolution-ascended-heroes-booster-bundle-pre-order-raffle/?ref=celadon": {
     "status": "Unknown",
     "price": "$35.99 CAD",
@@ -369,6 +362,13 @@
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/pokemon-mega-evolution-ascended-heroes-booster-bundle?ref=celadon"
+  },
+  "Ascended Heroes Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-booster-bundle-limit-2-per-person?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$139.99 CAD",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-booster-bundle-limit-2-per-person?ref=celadon"
   },
   "Ascended Heroes Booster Bundle|Poke Jeux|https://www.pokejeux.ca/products/pre-order-pokemon-me2-5-ascended-heroes-booster-bundle?ref=celadon": {
     "status": "Out of Stock",
@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
+    "status": "In Stock",
+    "price": "$199.99 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Poke Jeux",
+    "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-5-30th-celebration-elite-trainer-box-limit-1-per-person?ref=celadon": {
     "status": "In Stock",
     "price": "$219.99 CAD",
@@ -922,13 +929,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
-  },
-  "30th Celebration Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$199.99 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Poke Jeux",
-    "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon": {
     "status": "Out of Stock",
@@ -979,13 +979,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
   },
-  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$89.99 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
-  },
   "30th Celebration Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
@@ -1013,6 +1006,13 @@
     "product": "30th Celebration Booster Bundle",
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/collections/sealed-products/products/30th-celebration-booster-bundle?ref=celadon"
+  },
+  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$89.99 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
   },
   "30th Celebration Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-booster-bundle-pre-order?ref=celadon": {
     "status": "Out of Stock",
@@ -1112,6 +1112,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-1?ref=celadon"
   },
+  "Delta Reign Booster Bundle|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order?bg_ref=J3bjb4BGL5": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Video Games Plus",
+    "url": "https://videogamesplus.ca/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order?bg_ref=J3bjb4BGL5"
+  },
   "Delta Reign Booster Bundle|Amazon|https://link.amazon/B0ggmcoWQ": {
     "status": "Unknown",
     "price": "TBA",
@@ -1181,6 +1188,13 @@
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-elite-trainer-box?ref=celadon"
+  },
+  "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Video Games Plus",
+    "url": "https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5"
   },
   "Delta Reign Elite Trainer Box|Amazon|https://link.amazon/B0fFUkQE2": {
     "status": "Unknown",
