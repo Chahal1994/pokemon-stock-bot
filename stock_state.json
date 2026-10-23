@@ -76,19 +76,19 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F4BBHBZPCR45Z"
   },
+  "Ascended Heroes Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0G3CY83L5/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Ascended Heroes Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0G3CY83L5/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Ascended Heroes Elite Trainer Box|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/960535/celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Ascended Heroes Elite Trainer Box",
     "retailer": "EB Games",
     "url": "https://www.ebgames.ca/Trading%20Cards/Games/960535/celadon"
-  },
-  "Ascended Heroes Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0G3CY83L5/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Ascended Heroes Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0G3CY83L5/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Ascended Heroes Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-sealed-case-1?ref=celadon": {
     "status": "Unknown",
@@ -181,6 +181,13 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6LAA72BDBO4P"
   },
+  "Perfect Order Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GG11K25W/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Perfect Order Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GG11K25W/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Perfect Order Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10377-109/pokemon-tcg-mega-evolution-perfect-order-booster-bundle-6-packs/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -194,13 +201,6 @@
     "product": "Perfect Order Booster Bundle",
     "retailer": "EB Games",
     "url": "https://www.ebgames.ca/Trading%20Cards/Games/962106/celadon"
-  },
-  "Perfect Order Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GG11K25W/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Perfect Order Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GG11K25W/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Perfect Order Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/pokemon-me03-perfect-order-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
@@ -279,6 +279,13 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK"
   },
+  "Perfect Order Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GFZV1ZVV/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GFZV1ZVV/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Perfect Order Elite Trainer Box|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/962109/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -292,13 +299,6 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-copy?ref=celadon"
-  },
-  "Perfect Order Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GFZV1ZVV/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GFZV1ZVV/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
@@ -398,6 +398,13 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F585F9W89C55G"
   },
+  "Ascended Heroes Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0G3CV6Z9D/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0G3CV6Z9D/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Ascended Heroes Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10311-114/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-packs/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -411,13 +418,6 @@
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "EB Games",
     "url": "https://www.ebgames.ca/Trading%20Cards/Games/960539/celadon"
-  },
-  "Ascended Heroes Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0G3CV6Z9D/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0G3CV6Z9D/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Ascended Heroes Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-sealed-case-25-bundles-1?ref=celadon": {
     "status": "Unknown",
@@ -461,19 +461,19 @@
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon": {
     "status": "In Stock",
     "price": "$59.99 CAD",
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-chaos-rising-booster-bundle-pre-order-may-22nd?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-booster-bundle?aff=celadon": {
     "status": "In Stock",
@@ -510,6 +510,13 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6Z5CLX0MKJ39"
   },
+  "Chaos Rising Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GR6Q72ND/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GR6Q72ND/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Chaos Rising Booster Bundle|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/965102/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -530,13 +537,6 @@
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10403-109/pokemon-tcg-mega-evolution-chaos-rising-booster-bundle/celadon"
-  },
-  "Chaos Rising Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GR6Q72ND/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GR6Q72ND/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Chaos Rising Booster Bundle|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle-case-of-25?ref=celadon": {
     "status": "Unknown",
@@ -566,13 +566,6 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-mega-evolution-chaos-rising-elite-trainer-box?ref=celadon"
   },
-  "Chaos Rising Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon": {
-    "status": "In Stock",
-    "price": "$105.99 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon"
-  },
   "Chaos Rising Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-elite-trainer-box-limit-1-per-person?ref=celadon": {
     "status": "In Stock",
     "price": "$109.99 CAD",
@@ -593,6 +586,13 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-elite-trainer-box?ref=celadon"
+  },
+  "Chaos Rising Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon": {
+    "status": "In Stock",
+    "price": "$114.99 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-chaos-rising-elite-trainer-box-pre-order-may-22nd?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me04-chaos-rising-elite-trainer?aff=celadon": {
     "status": "In Stock",
@@ -629,6 +629,13 @@
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/pokemon-chaos-rising-elite-trainer-box-sealed-case-10-etbs?ref=celadon"
   },
+  "Chaos Rising Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GR6N18F6/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GR6N18F6/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Chaos Rising Elite Trainer Box|TCGplayer|https://partner.tcgplayer.com/X4NJDa": {
     "status": "Unknown",
     "price": "TBA",
@@ -656,13 +663,6 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "EB Games",
     "url": "https://www.ebgames.ca/Trading%20Cards/Games/965111/celadon"
-  },
-  "Chaos Rising Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GR6N18F6/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GR6N18F6/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Chaos Rising Elite Trainer Box|Card Board Gaming|https://www.cardboardgaming.ca/products/chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "Unknown",
@@ -755,19 +755,19 @@
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order?ref=celadon"
   },
+  "Pitch Black Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GYTRYV7P/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GYTRYV7P/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Pitch Black Booster Bundle|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10422-109/celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Pitch Black Booster Bundle",
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10422-109/celadon"
-  },
-  "Pitch Black Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0GYTRYV7P/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GYTRYV7P/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1"
   },
   "Pitch Black Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-pitch-black-booster-bundle-july-31st-wave-2?ref=celadon": {
     "status": "Unknown",
@@ -853,19 +853,19 @@
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A"
   },
+  "Pitch Black Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GYVHLP4L/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Pitch Black Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0GYVHLP4L/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Pitch Black Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-pitch-black-elite-trainer-box-pre-order-july-17?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-pitch-black-elite-trainer-box-pre-order-july-17?ref=celadon"
-  },
-  "Pitch Black Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0GYVHLP4L/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Pitch Black Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0GYVHLP4L/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1"
   },
   "Pitch Black Pokémon Center Elite Trainer Box|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon": {
     "status": "Unknown",
@@ -944,6 +944,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pre-order-pokemon-tcg-30th-anniversary-celebrations-sealed-case-of-10-elite-trainer-box?ref=celadon"
   },
+  "30th Celebration Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0H78BB9TY/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0H78BB9TY/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "30th Celebration Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F59T63OIG4M6A": {
     "status": "Unknown",
     "price": "$109.98 CAD",
@@ -965,19 +972,19 @@
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/pokemon-tcg-30th-anniversary-elite-trainer-box?ref=celadon"
   },
-  "30th Celebration Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0H78BB9TY/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0H78BB9TY/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB%C3%B8&aod=1"
-  },
   "30th Celebration Pokémon Center Elite Trainer Box|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "30th Celebration Pokémon Center Elite Trainer Box",
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
+  },
+  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$89.99 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
   },
   "30th Celebration Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-booster-bundle?ref=celadon": {
     "status": "In Stock",
@@ -1007,13 +1014,6 @@
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/collections/sealed-products/products/30th-celebration-booster-bundle?ref=celadon"
   },
-  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$89.99 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
-  },
   "30th Celebration Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-booster-bundle-pre-order?ref=celadon": {
     "status": "Out of Stock",
     "price": "$99.95 CAD",
@@ -1042,6 +1042,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-30th-celebration-booster-bundle-release-late-november-2026-wave-3?ref=celadon"
   },
+  "30th Celebration Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0H783FY5Z/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0H783FY5Z/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "30th Celebration Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0WWUNLWQR56J": {
     "status": "Unknown",
     "price": "$67.48 CAD",
@@ -1062,13 +1069,6 @@
     "product": "30th Celebration Booster Bundle",
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10451-115/celadon"
-  },
-  "30th Celebration Booster Bundle|Amazon|https://amzn.to/4v8CMJy": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://amzn.to/4v8CMJy"
   },
   "Delta Reign Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon": {
     "status": "In Stock",
@@ -1105,6 +1105,13 @@
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon"
   },
+  "Delta Reign Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Delta Reign Booster Bundle|Pokémon Center| https://www.pokemoncenter.com/en-ca/product/10-10439-109/celadon": {
     "status": "Unknown",
     "price": "TBA",
@@ -1118,13 +1125,6 @@
     "product": "Delta Reign Booster Bundle",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-1?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Amazon|https://link.amazon/B0ggmcoWQ": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://link.amazon/B0ggmcoWQ"
   },
   "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-3?ref=celadon": {
     "status": "Unknown",
@@ -1189,19 +1189,19 @@
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/delta-reign-elite-trainer-box-case?ref=celadon"
   },
+  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "TBA",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Delta Reign Elite Trainer Box|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-elite-trainer-box?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-elite-trainer-box?ref=celadon"
-  },
-  "Delta Reign Elite Trainer Box|Amazon|https://link.amazon/B0fFUkQE2": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://link.amazon/B0fFUkQE2"
   },
   "Delta Reign Pokémon Center Elite Trainer Box|Pokémon Center|https://www.pokemoncenter.com/en-ca/product/10-10438-112/celadon": {
     "status": "Unknown",
