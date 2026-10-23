@@ -685,13 +685,6 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10399-112/pokemon-tcg-mega-evolution-chaos-rising-pokemon-center-elite-trainer-box/celadon"
   },
-  "Pitch Black Booster Bundle|Card Board Gaming|https://www.cardboardgaming.ca/products/pitch-black-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$42.00 CAD",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Card Board Gaming",
-    "url": "https://www.cardboardgaming.ca/products/pitch-black-booster-bundle?ref=celadon"
-  },
   "Pitch Black Booster Bundle|Springer Hobbies|https://springerhobbies.com/collections/pokemon-tcg/products/pokemon-mega-evolution-pitch-black-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$44.95 CAD",
@@ -740,6 +733,13 @@
     "product": "Pitch Black Booster Bundle",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/mega-evolution-pitch-black-booster-bundle?ref=celadon"
+  },
+  "Pitch Black Booster Bundle|Card Board Gaming|https://www.cardboardgaming.ca/products/pitch-black-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$42.00 CAD",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Card Board Gaming",
+    "url": "https://www.cardboardgaming.ca/products/pitch-black-booster-bundle?ref=celadon"
   },
   "Pitch Black Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-me05-pitch-black-booster-bundle?ref=celadon": {
     "status": "Out of Stock",
@@ -874,6 +874,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$189.95 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-30th-celebration-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$199.99 CAD",
@@ -922,13 +929,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Video Games Plus",
     "url": "https://videogamesplus.ca/products/tcg-pokemon-30th-celebration-elite-trainer-box-pre-order?bg_ref=J3bjb4BGL5"
-  },
-  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$189.95 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon": {
     "status": "Out of Stock",
