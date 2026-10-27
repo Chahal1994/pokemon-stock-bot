@@ -811,13 +811,6 @@
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/pokemon-pitch-black-elite-trainer-box?ref=celadon"
   },
-  "Pitch Black Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-elite-trainer?aff=celadon": {
-    "status": "In Stock",
-    "price": "$110.00 CAD",
-    "product": "Pitch Black Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-elite-trainer?aff=celadon"
-  },
   "Pitch Black Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/mega-evolution-pitch-black-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
@@ -845,6 +838,13 @@
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-mega-evolution-pitch-black-elite-trainer-box?ref=celadon"
+  },
+  "Pitch Black Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-elite-trainer?aff=celadon": {
+    "status": "Out of Stock",
+    "price": "$110.00 CAD",
+    "product": "Pitch Black Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-elite-trainer?aff=celadon"
   },
   "Pitch Black Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A": {
     "status": "Out of Stock",
