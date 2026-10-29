@@ -216,13 +216,6 @@
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/products/perfect-order-elite-trainer-box-etb?ref=celadon"
   },
-  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
-    "status": "In Stock",
-    "price": "$99.95 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
-  },
   "Perfect Order Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$99.99 CAD",
@@ -257,6 +250,13 @@
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Card Board Gaming",
     "url": "https://www.cardboardgaming.ca/products/perfect-order-elite-trainer-box?ref=celadon"
+  },
+  "Perfect Order Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$99.95 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2?ref=celadon"
   },
   "Perfect Order Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-elite-trainer-box-limit-1-per-person-copy?ref=celadon": {
     "status": "Out of Stock",
@@ -489,19 +489,19 @@
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/chaos-rising-booster-bundle?ref=celadon"
   },
-  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$44.99 CAD",
-    "product": "Chaos Rising Booster Bundle",
-    "retailer": "Poke Jeux",
-    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
-  },
   "Chaos Rising Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon": {
     "status": "Out of Stock",
     "price": "$59.99 CAD",
     "product": "Chaos Rising Booster Bundle",
     "retailer": "Deck Out Gaming",
     "url": "https://deckoutgaming.ca/products/pokemon-me4-chaos-rising-booster-bundle-limit-2-per-person?ref=celadon"
+  },
+  "Chaos Rising Booster Bundle|Poke Jeux|https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$59.99 CAD",
+    "product": "Chaos Rising Booster Bundle",
+    "retailer": "Poke Jeux",
+    "url": "https://www.pokejeux.ca/collections/me04-chaos-rising-sealed-products/products/pre-order-pokemon-me04-chaos-rising-booster-bundle?ref=celadon"
   },
   "Chaos Rising Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F6Z5CLX0MKJ39": {
     "status": "Out of Stock",
