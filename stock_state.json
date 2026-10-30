@@ -1154,19 +1154,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
-  "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
-    "status": "In Stock",
-    "price": "$139.99 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Just-a-Hobby",
-    "url": "https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon"
-  },
   "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
     "price": "$109.99 CAD",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Video Games Plus",
     "url": "https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5"
+  },
+  "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$139.99 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Just-a-Hobby",
+    "url": "https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon"
   },
   "Delta Reign Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
