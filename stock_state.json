@@ -132,13 +132,6 @@
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-3-perfect-order-booster-bundle-pre-order?ref=celadon"
   },
-  "Perfect Order Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me3-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$59.99 CAD",
-    "product": "Perfect Order Booster Bundle",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me3-booster-bundle?ref=celadon"
-  },
   "Perfect Order Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-mega-evolution-perfect-order-booster-bundle-pre-order-march-27th-2026?ref=celadon": {
     "status": "In Stock",
     "price": "$63.95 CAD",
@@ -166,6 +159,13 @@
     "product": "Perfect Order Booster Bundle",
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/products/pokemon-me03-perfect-order-booster-bundle?ref=celadon"
+  },
+  "Perfect Order Booster Bundle|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me3-booster-bundle?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$59.99 CAD",
+    "product": "Perfect Order Booster Bundle",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me3-booster-bundle?ref=celadon"
   },
   "Perfect Order Booster Bundle|Poke Jeux|https://www.pokejeux.ca/products/pre-order-pokemon-me03-perfect-order-booster-bundle?ref=celadon": {
     "status": "Out of Stock",
