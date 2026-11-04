@@ -223,6 +223,13 @@
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon"
   },
+  "Perfect Order Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon": {
+    "status": "In Stock",
+    "price": "$105.00 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon"
+  },
   "Perfect Order Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/products/pre-order-pokemon-me03-perfect-order-elite-trainer?ref=celadon": {
     "status": "In Stock",
     "price": "$109.99 CAD",
@@ -265,13 +272,6 @@
     "retailer": "Deck Out Gaming",
     "url": "https://deckoutgaming.ca/products/pokemon-me2-5-ascended-heroes-elite-trainer-box-limit-1-per-person-copy?ref=celadon"
   },
-  "Perfect Order Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon": {
-    "status": "Out of Stock",
-    "price": "$105.00 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon"
-  },
   "Perfect Order Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F1S28YDYAT4HK": {
     "status": "Out of Stock",
     "price": "TBA",
@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$171.46 CAD",
+    "price": "$169.90 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
