@@ -692,19 +692,19 @@
     "retailer": "Springer Hobbies",
     "url": "https://springerhobbies.com/collections/pokemon-tcg/products/pokemon-mega-evolution-pitch-black-booster-bundle?ref=celadon"
   },
-  "Pitch Black Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-pitch-black-booster-bundle?ref=celadon": {
-    "status": "In Stock",
-    "price": "$47.99 CAD",
-    "product": "Pitch Black Booster Bundle",
-    "retailer": "Yume Cards",
-    "url": "https://www.yumecards.ca/collections/english-box/products/pokemon-pitch-black-booster-bundle?ref=celadon"
-  },
   "Pitch Black Booster Bundle|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0XGIAP6US5AO": {
     "status": "In Stock",
     "price": "$49.98 CAD",
     "product": "Pitch Black Booster Bundle",
     "retailer": "Walmart",
     "url": "https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0XGIAP6US5AO"
+  },
+  "Pitch Black Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-pitch-black-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$49.99 CAD",
+    "product": "Pitch Black Booster Bundle",
+    "retailer": "Yume Cards",
+    "url": "https://www.yumecards.ca/collections/english-box/products/pokemon-pitch-black-booster-bundle?ref=celadon"
   },
   "Pitch Black Booster Bundle|Tistaminis|https://tistaminis.com/products/pokemon-pokemon-me05-pitch-black-booster-bundle?aff=celadon": {
     "status": "In Stock",
@@ -988,7 +988,7 @@
   },
   "30th Celebration Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-booster-bundle?ref=celadon": {
     "status": "In Stock",
-    "price": "$119.99 CAD",
+    "price": "$99.99 CAD",
     "product": "30th Celebration Booster Bundle",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-booster-bundle?ref=celadon"
@@ -1168,6 +1168,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
+  "Delta Reign Elite Trainer Box|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon": {
+    "status": "In Stock",
+    "price": "$165.00 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon"
+  },
   "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
     "price": "$109.99 CAD",
@@ -1188,13 +1195,6 @@
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-elite-trainer-box?ref=celadon"
-  },
-  "Delta Reign Elite Trainer Box|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon": {
-    "status": "Out of Stock",
-    "price": "$165.00 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon"
   },
   "Delta Reign Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/products/delta-reign-elite-trainer-box-case?ref=celadon": {
     "status": "Out of Stock",
