@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$165.68 CAD",
+    "price": "$166.79 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -797,13 +797,6 @@
     "retailer": "Poke Jeux",
     "url": "https://www.pokejeux.ca/collections/pokemon-tcg-preorder/products/pre-order-pokemon-me05-pitch-black-elite-trainer?ref=celadon"
   },
-  "Pitch Black Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-pitch-black-elite-trainer-box-limit-1-per-person-pre-order-ships-july-17-2026?ref=celadon": {
-    "status": "In Stock",
-    "price": "$109.99 CAD",
-    "product": "Pitch Black Elite Trainer Box",
-    "retailer": "Deck Out Gaming",
-    "url": "https://deckoutgaming.ca/products/pokemon-me5-pitch-black-elite-trainer-box-limit-1-per-person-pre-order-ships-july-17-2026?ref=celadon"
-  },
   "Pitch Black Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-pitch-black-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$109.99 CAD",
@@ -845,6 +838,13 @@
     "product": "Pitch Black Elite Trainer Box",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order?ref=celadon"
+  },
+  "Pitch Black Elite Trainer Box|Deck Out Gaming|https://deckoutgaming.ca/products/pokemon-me5-pitch-black-elite-trainer-box-limit-1-per-person-pre-order-ships-july-17-2026?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$109.99 CAD",
+    "product": "Pitch Black Elite Trainer Box",
+    "retailer": "Deck Out Gaming",
+    "url": "https://deckoutgaming.ca/products/pokemon-me5-pitch-black-elite-trainer-box-limit-1-per-person-pre-order-ships-july-17-2026?ref=celadon"
   },
   "Pitch Black Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F0ZL5ADQ5QA1A": {
     "status": "Out of Stock",
@@ -1070,6 +1070,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10451-115/celadon"
   },
+  "Delta Reign Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$54.99 CAD",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Yume Cards",
+    "url": "https://www.yumecards.ca/products/pokemon-delta-reign-booster-bundle?ref=celadon"
+  },
   "Delta Reign Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon": {
     "status": "In Stock",
     "price": "$79.99 CAD",
@@ -1104,13 +1111,6 @@
     "product": "Delta Reign Booster Bundle",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/delta-reign-booster-bundle?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-booster-bundle?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$1,052.99 CAD",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Yume Cards",
-    "url": "https://www.yumecards.ca/products/pokemon-delta-reign-booster-bundle?ref=celadon"
   },
   "Delta Reign Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon": {
     "status": "Out of Stock",
@@ -1175,19 +1175,19 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
+  "Delta Reign Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon": {
+    "status": "In Stock",
+    "price": "$109.99 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Yume Cards",
+    "url": "https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon"
+  },
   "Delta Reign Elite Trainer Box|Tistaminis|https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon": {
     "status": "In Stock",
     "price": "$165.00 CAD",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon"
-  },
-  "Delta Reign Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon": {
-    "status": "In Stock",
-    "price": "$1,112.99 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Yume Cards",
-    "url": "https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon"
   },
   "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
