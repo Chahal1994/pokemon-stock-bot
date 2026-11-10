@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$166.79 CAD",
+    "price": "$165.90 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -1175,13 +1175,6 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
-  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "In Stock",
-    "price": "$89.99 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
-  },
   "Delta Reign Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$109.99 CAD",
@@ -1195,6 +1188,13 @@
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon"
+  },
+  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "$89.99 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
