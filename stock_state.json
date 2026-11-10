@@ -979,19 +979,19 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
   },
+  "30th Celebration Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-oct-2-2026?ref=celadon": {
+    "status": "In Stock",
+    "price": "$110.00 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-oct-2-2026?ref=celadon"
+  },
   "30th Celebration Booster Bundle|Tistaminis|https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon": {
     "status": "In Stock",
     "price": "$119.99 CAD",
     "product": "30th Celebration Booster Bundle",
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon/products/pokemon-30th-celebration-booster-bundle?aff=celadon"
-  },
-  "30th Celebration Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-oct-2-2026?ref=celadon": {
-    "status": "In Stock",
-    "price": "$139.95 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/pokemon-tcg-30th-celebration-booster-bundle-pre-order-oct-2-2026?ref=celadon"
   },
   "30th Celebration Booster Bundle|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-booster-bundle-pre-order-oct-2?ref=celadon": {
     "status": "In Stock",
@@ -1175,6 +1175,13 @@
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
   },
+  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "In Stock",
+    "price": "$89.99 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Delta Reign Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$109.99 CAD",
@@ -1216,13 +1223,6 @@
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/delta-reign-elite-trainer-box-case?ref=celadon"
-  },
-  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Out of Stock",
-    "price": "TBA",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Delta Reign Elite Trainer Box|Walmart|https://click.linksynergy.com/deeplink?id=/uPUWIc4hBQ&mid=36751&murl=https%3A%2F%2Fwww.walmart.ca%2Fen%2Fip%2Fceladon%2F63W0JB0OZHWP": {
     "status": "Unknown",
