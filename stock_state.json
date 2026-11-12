@@ -216,19 +216,19 @@
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/products/perfect-order-elite-trainer-box-etb?ref=celadon"
   },
+  "Perfect Order Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon": {
+    "status": "In Stock",
+    "price": "$99.99 CAD",
+    "product": "Perfect Order Elite Trainer Box",
+    "retailer": "Tistaminis",
+    "url": "https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon"
+  },
   "Perfect Order Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$99.99 CAD",
     "product": "Perfect Order Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/pokemon-perfect-order-elite-trainer-box?ref=celadon"
-  },
-  "Perfect Order Elite Trainer Box|Tistaminis|https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon": {
-    "status": "In Stock",
-    "price": "$105.00 CAD",
-    "product": "Perfect Order Elite Trainer Box",
-    "retailer": "Tistaminis",
-    "url": "https://tistaminis.com/products/pokemon-me03-perfect-order-elite-trainer?aff=celadon"
   },
   "Perfect Order Elite Trainer Box|Poke Jeux|https://www.pokejeux.ca/products/pre-order-pokemon-me03-perfect-order-elite-trainer?ref=celadon": {
     "status": "In Stock",
@@ -874,9 +874,16 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10416-112/celadon"
   },
+  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$159.95 CAD",
+    "product": "30th Celebration Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
+  },
   "30th Celebration Elite Trainer Box|Banana Games|https://bananagames.ca/products/pokemon-tcg-30th-anniversary-celebrations-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
-    "price": "$169.95 CAD",
+    "price": "$167.95 CAD",
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-tcg-30th-anniversary-celebrations-elite-trainer-box?ref=celadon"
@@ -922,13 +929,6 @@
     "product": "30th Celebration Elite Trainer Box",
     "retailer": "Video Games Plus",
     "url": "https://videogamesplus.ca/products/tcg-pokemon-30th-celebration-elite-trainer-box-pre-order?bg_ref=J3bjb4BGL5"
-  },
-  "30th Celebration Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$159.95 CAD",
-    "product": "30th Celebration Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/pokemon-30th-celebration-elite-trainer-box-pre-order?ref=celadon"
   },
   "30th Celebration Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-30th-celebration-elite-trainer-box-pre-order-sept-16?ref=celadon": {
     "status": "Out of Stock",
