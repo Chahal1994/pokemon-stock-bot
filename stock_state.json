@@ -1084,6 +1084,13 @@
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon"
   },
+  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256": {
+    "status": "In Stock",
+    "price": "$1,373.75 CAD",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256"
+  },
   "Delta Reign Booster Bundle|Hobbiesville|https://hobbiesville.com/products/pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order?ref=celadon": {
     "status": "Out of Stock",
     "price": "$49.95 CAD",
@@ -1147,33 +1154,12 @@
     "retailer": "Pokémon Center",
     "url": " https://www.pokemoncenter.com/en-ca/product/10-10439-109/celadon"
   },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-1?ref=celadon": {
+  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Delta Reign Booster Bundle",
     "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-1?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-3?ref=celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-sealed-case-of-25-wave-3?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle-wave-2?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-storm-emerald-booster-bundle?ref=celadon"
+    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon"
   },
   "Delta Reign Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-delta-reign-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
