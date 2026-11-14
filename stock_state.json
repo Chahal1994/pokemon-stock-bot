@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$158.07 CAD",
+    "price": "$154.19 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -1077,6 +1077,13 @@
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/pokemon-delta-reign-booster-bundle?ref=celadon"
   },
+  "Delta Reign Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "In Stock",
+    "price": "$54.95 CAD",
+    "product": "Delta Reign Booster Bundle",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$54.95 CAD",
@@ -1104,13 +1111,6 @@
     "product": "Delta Reign Booster Bundle",
     "retailer": "Hobbiesville",
     "url": "https://hobbiesville.com/products/pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order?ref=celadon"
-  },
-  "Delta Reign Booster Bundle|Amazon|https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Out of Stock",
-    "price": "$49.99 CAD",
-    "product": "Delta Reign Booster Bundle",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0HG3RVZLW/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Delta Reign Booster Bundle|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
