@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$145.78 CAD",
+    "price": "$147.66 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -412,19 +412,19 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10311-114/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-6-packs/celadon"
   },
-  "Ascended Heroes Booster Bundle|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/960539/celadon": {
-    "status": "Unknown",
-    "price": "TBA",
-    "product": "Ascended Heroes Booster Bundle",
-    "retailer": "EB Games",
-    "url": "https://www.ebgames.ca/Trading%20Cards/Games/960539/celadon"
-  },
   "Ascended Heroes Booster Bundle|Banana Games|https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-sealed-case-25-bundles-1?ref=celadon": {
     "status": "Unknown",
     "price": "TBA",
     "product": "Ascended Heroes Booster Bundle",
     "retailer": "Banana Games",
     "url": "https://bananagames.ca/products/pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-sealed-case-25-bundles-1?ref=celadon"
+  },
+  "Ascended Heroes Booster Bundle|EB Games|https://www.ebgames.ca/Trading%20Cards/Games/960539/celadon": {
+    "status": "Unknown",
+    "price": "TBA",
+    "product": "Ascended Heroes Booster Bundle",
+    "retailer": "EB Games",
+    "url": "https://www.ebgames.ca/Trading%20Cards/Games/960539/celadon"
   },
   "Chaos Rising Booster Bundle|Card Board Gaming|https://www.cardboardgaming.ca/products/chaos-rising-booster-bundle?ref=celadon": {
     "status": "In Stock",
