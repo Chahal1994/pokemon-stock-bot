@@ -979,6 +979,13 @@
     "retailer": "Pokémon Center",
     "url": "https://www.pokemoncenter.com/en-ca/product/10-10447-111/celadon"
   },
+  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
+    "status": "In Stock",
+    "price": "$89.99 CAD",
+    "product": "30th Celebration Booster Bundle",
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
+  },
   "30th Celebration Booster Bundle|Yume Cards|https://www.yumecards.ca/collections/english-box/products/pokemon-30th-celebration-booster-bundle?ref=celadon": {
     "status": "In Stock",
     "price": "$99.99 CAD",
@@ -1034,13 +1041,6 @@
     "product": "30th Celebration Booster Bundle",
     "retailer": "Manta Trading",
     "url": "https://mantatrading.com/collections/sealed-products/products/30th-celebration-booster-bundle?ref=celadon"
-  },
-  "30th Celebration Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$89.99 CAD",
-    "product": "30th Celebration Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/30th-celebration-booster-bundle?ref=celadon"
   },
   "30th Celebration Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-30th-celebration-booster-bundle-release-late-november-2026-wave-3?ref=celadon": {
     "status": "Out of Stock",
@@ -1112,12 +1112,12 @@
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-booster-bundle?aff=celadon"
   },
-  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256": {
+  "Delta Reign Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon": {
     "status": "In Stock",
-    "price": "$1,173.75 CAD",
+    "price": "$999.99 CAD",
     "product": "Delta Reign Booster Bundle",
-    "retailer": "Banana Games",
-    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256"
+    "retailer": "Cardboard Hero",
+    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon"
   },
   "Delta Reign Booster Bundle|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
@@ -1133,12 +1133,12 @@
     "retailer": "Just-a-Hobby",
     "url": "https://www.justahobby.store/products/pokemon-delta-reign-booster-bundle-pre-order-nov-6?ref=celadon"
   },
-  "Delta Reign Booster Bundle|Cardboard Hero|https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon": {
+  "Delta Reign Booster Bundle|Banana Games|https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256": {
     "status": "Out of Stock",
-    "price": "$999.99 CAD",
+    "price": "$1,173.75 CAD",
     "product": "Delta Reign Booster Bundle",
-    "retailer": "Cardboard Hero",
-    "url": "https://cardboardhero.com/collections/pokemon-pre-order-2/products/pre-order-pokemon-tcg-delta-reign-booster-bundle-case-of-25?ref=celadon"
+    "retailer": "Banana Games",
+    "url": "https://bananagames.ca/products/preorder-pokemon-tcg-mega-evolution-delta-reign-booster-bundle?ref=celadon&variant=48791099736256"
   },
   "Delta Reign Booster Bundle|Best Buy|https://bestbuyca.o93x.net/6k6Lym": {
     "status": "Unknown",
