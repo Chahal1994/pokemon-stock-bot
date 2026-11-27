@@ -302,7 +302,7 @@
   },
   "Perfect Order Pokémon Center Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
-    "price": "$142.22 CAD",
+    "price": "$141.19 CAD",
     "product": "Perfect Order Pokémon Center Elite Trainer Box",
     "retailer": "Yume Cards",
     "url": "https://www.yumecards.ca/products/perfect-order-pokemon-center-elite-trainer-box?ref=celadon"
@@ -545,6 +545,13 @@
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle-case-of-25?ref=celadon"
   },
+  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "In Stock",
+    "price": "$83.65 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
+  },
   "Chaos Rising Elite Trainer Box|Cardboard Hero|https://cardboardhero.com/products/mega-evolution-chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$89.99 CAD",
@@ -593,13 +600,6 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Zephyr Epic",
     "url": "https://zephyrepic.com/product/pokemon-mega-evolution-chaos-rising-elite-trainer-box-pre-order-raffle/?ref=celadon"
-  },
-  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "Out of Stock",
-    "price": "$83.65 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
@@ -1182,19 +1182,19 @@
     "retailer": "Tistaminis",
     "url": "https://tistaminis.com/collections/pokemon-preorders/products/pokemon-me06-delta-reign-elite-trainer?aff=celadon"
   },
+  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
+    "status": "Out of Stock",
+    "price": "$105.69 CAD",
+    "product": "Delta Reign Elite Trainer Box",
+    "retailer": "Amazon",
+    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
+  },
   "Delta Reign Elite Trainer Box|Video Games Plus|https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5": {
     "status": "Out of Stock",
     "price": "$109.99 CAD",
     "product": "Delta Reign Elite Trainer Box",
     "retailer": "Video Games Plus",
     "url": "https://videogamesplus.ca/products/pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order?bg_ref=J3bjb4BGL5"
-  },
-  "Delta Reign Elite Trainer Box|Amazon|https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1": {
-    "status": "Out of Stock",
-    "price": "$113.69 CAD",
-    "product": "Delta Reign Elite Trainer Box",
-    "retailer": "Amazon",
-    "url": "https://www.amazon.ca/gp/product/B0HG3MQDWP/?tag=celadon00-20&smid=A3DWYIK6Y9EEQB&aod=1"
   },
   "Delta Reign Elite Trainer Box|Just-a-Hobby|https://www.justahobby.store/products/pokemon-delta-reign-elite-trainer-box-pre-order-nov-6?ref=celadon": {
     "status": "Out of Stock",
