@@ -545,13 +545,6 @@
     "retailer": "Cardboard Hero",
     "url": "https://cardboardhero.com/products/mega-evolution-chaos-rising-booster-bundle-case-of-25?ref=celadon"
   },
-  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
-    "status": "In Stock",
-    "price": "$83.65 CAD",
-    "product": "Chaos Rising Elite Trainer Box",
-    "retailer": "Hobbiesville",
-    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
-  },
   "Chaos Rising Elite Trainer Box|Yume Cards|https://www.yumecards.ca/products/pokemon-chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "In Stock",
     "price": "$89.99 CAD",
@@ -600,6 +593,13 @@
     "product": "Chaos Rising Elite Trainer Box",
     "retailer": "Zephyr Epic",
     "url": "https://zephyrepic.com/product/pokemon-mega-evolution-chaos-rising-elite-trainer-box-pre-order-raffle/?ref=celadon"
+  },
+  "Chaos Rising Elite Trainer Box|Hobbiesville|https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon": {
+    "status": "Out of Stock",
+    "price": "$83.65 CAD",
+    "product": "Chaos Rising Elite Trainer Box",
+    "retailer": "Hobbiesville",
+    "url": "https://hobbiesville.com/products/app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order?ref=celadon"
   },
   "Chaos Rising Elite Trainer Box|Springer Hobbies|https://springerhobbies.com/products/chaos-rising-elite-trainer-box?ref=celadon": {
     "status": "Out of Stock",
